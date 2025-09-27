@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc8576f9-aa6f-48b6-8282-0645583365c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mimAHP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mimAHP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="fc8576f9-aa6f-48b6-8282-0645583365c3" name="Changes" comment="Yerel kaynaktan import edilerek kullanılabilir hali">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mimahp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mimahp/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mimahp/consistency.py" beforeDir="false" afterPath="$PROJECT_DIR$/mimahp/consistency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mimahp/mimahp.py" beforeDir="false" afterPath="$PROJECT_DIR$/mimahp/mimahp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mimahp/pairwise.py" beforeDir="false" afterPath="$PROJECT_DIR$/mimahp/pairwise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mimahp/weights.py" beforeDir="false" afterPath="$PROJECT_DIR$/mimahp/weights.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +41,7 @@
     "Python.example_basic.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/mutlualkan/PycharmProjects/mimAHP",
@@ -112,6 +102,15 @@
       <option name="presentableId" value="Default" />
       <updated>1758093527558</updated>
     </task>
+    <task id="LOCAL-00001" summary="Yerel kaynaktan import edilerek kullanılabilir hali">
+      <option name="closed" value="true" />
+      <created>1758953464947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758953464947</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +184,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="Yerel kaynaktan import edilerek kullanılabilir hali" />
+    <option name="LAST_COMMIT_MESSAGE" value="Yerel kaynaktan import edilerek kullanılabilir hali" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
