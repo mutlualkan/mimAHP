@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc8576f9-aa6f-48b6-8282-0645583365c3" name="Changes" comment="Yerel kaynaktan import edilerek kullanılabilir hali">
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mimahp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mimahp/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mimahp/ahp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mimahp/consistency.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mimahp/consistency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mimahp/mimahp.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mimahp/mimahp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mimahp/pairwise.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mimahp/pairwise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mimahp/weights.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mimahp/weights.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
