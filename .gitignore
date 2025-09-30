@@ -1,2 +1,5 @@
 examples
+venv
+mimAHP.egg-info
+dist
 setup.py
