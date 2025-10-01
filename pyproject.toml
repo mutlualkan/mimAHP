@@ -1,21 +1,4 @@
 [build-system]
-requires = ["setuptools>=61.0"]
+requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
-[project]
-name = "mimAHP"
-version = "0.1.0"
-description = "A Python library that enables fast execution of the Analytical Hierarchy Process."
-readme = "README.md"
-license = {file = "LICENSE"}
-authors = [
-    { name="Mutlu Alkan", email="mutlualkan@gmail.com"},
-]
-requires-python = ">=3.8"
-dependencies = [
-    "requests",
-]
-
-[project.urls]
-Homepage = "https://github.com/mutlualkan/mimAHP"
-Repository = "https://github.com/mutlualkan/mimAHP"
